@@ -1,0 +1,24 @@
+{
+  "name": "@h3/alexandria",
+  "version": "1.0.0",
+  "description": "A hugo theme for storing knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerHappyHour/alexandria.git"
+  },
+  "keywords": [
+    "hugo",
+    "react",
+    "material"
+  ],
+  "author": "Brian Vanderbusch <brian@hackerhappyhour.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HackerHappyHour/alexandria/issues"
+  },
+  "homepage": "https://github.com/HackerHappyHour/alexandria#readme"
+}
